@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExponentsLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8db29830d52224ca1aabfc17386321e81829217")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc35d25eb5bbba1b515a4b38bd147bc19fe45b11")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExponentsLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExponentsLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

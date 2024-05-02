@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jacky\\source\\repos\\ExponentsLab\\ExponentsLab\\ExponentsLab.csproj": {}
+    "C:\\Users\\jacky\\projects\\repos\\ExponentsLab\\ExponentsLab\\ExponentsLab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jacky\\source\\repos\\ExponentsLab\\ExponentsLab\\ExponentsLab.csproj": {
+    "C:\\Users\\jacky\\projects\\repos\\ExponentsLab\\ExponentsLab\\ExponentsLab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jacky\\source\\repos\\ExponentsLab\\ExponentsLab\\ExponentsLab.csproj",
+        "projectUniqueName": "C:\\Users\\jacky\\projects\\repos\\ExponentsLab\\ExponentsLab\\ExponentsLab.csproj",
         "projectName": "ExponentsLab",
-        "projectPath": "C:\\Users\\jacky\\source\\repos\\ExponentsLab\\ExponentsLab\\ExponentsLab.csproj",
+        "projectPath": "C:\\Users\\jacky\\projects\\repos\\ExponentsLab\\ExponentsLab\\ExponentsLab.csproj",
         "packagesPath": "C:\\Users\\jacky\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jacky\\source\\repos\\ExponentsLab\\ExponentsLab\\obj\\",
+        "outputPath": "C:\\Users\\jacky\\projects\\repos\\ExponentsLab\\ExponentsLab\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

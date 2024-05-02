@@ -15,7 +15,7 @@ class Program
 
             for (int i = 1; i <= 5; i++)
             {
-                Console.WriteLine($"{i}\t\t{Math.Pow(number, 2 * i)}\t\t{Math.Pow(number, 3 * i)}");
+                Console.WriteLine($"{i}\t\t{Math.Pow(i, 2)}\t\t{Math.Pow(i, 3)}");
             }
 
 
